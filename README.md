@@ -7,4 +7,4 @@ Buku telepon digital lengkap dengan GUI-nya. Implementasi dengan Struktur Data H
 
 Bebas clone untuk belajar.
 
-Keep hacking.. :D
+Keep on hacking.. :D
